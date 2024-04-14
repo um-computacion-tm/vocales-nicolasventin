@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/95SjdgC7)
+#Nicolas Guillermo Ventin Elaskar
+En el codigo se crea una tupla con las vocales, se pone un for para que recorra la palabra dada buscando las vocales que tenga, si encuentra una vocal nueva se le pone 1 automaticamente y si no se la suma 1 al numero que este antes
